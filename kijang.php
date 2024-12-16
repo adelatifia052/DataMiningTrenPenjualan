@@ -127,7 +127,7 @@
                     labels: labels,
                     datasets: [
                         {
-                            label: 'Penjualan Kijang',
+                            label: 'Penjualan Cabang Kijang',
                             data: kijang,
                             backgroundColor: colorArray, // Menggunakan array warna
                             borderColor: colorArray.map(color => color.replace('0.6', '1')), // Warna border dengan opasitas penuh

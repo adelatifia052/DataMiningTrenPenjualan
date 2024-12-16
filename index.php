@@ -158,11 +158,7 @@ require 'cek.php';
                     responsive: true
                 }
             });
-
-            
-
-            
-       
+                   
         </script>
     </body>
 </html>

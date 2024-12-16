@@ -141,7 +141,7 @@
                         x: {
                             title: {
                                 display: true,
-                                text: 'BULAN' // Judul sumbu X
+                                text: 'NAMA KUE' // Judul sumbu X
                             }
                         },
                         y: {
